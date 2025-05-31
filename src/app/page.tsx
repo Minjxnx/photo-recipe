@@ -235,6 +235,7 @@ export default function PhotoRecipePage() {
         <p>
           &copy; {new Date().getFullYear()} PhotoRecipe. All rights reserved.
         </p>
+        <p>Developed with ❤️ by Minjxnx</p>
       </footer>
     </div>
   );
